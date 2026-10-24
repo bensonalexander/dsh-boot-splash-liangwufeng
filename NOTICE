@@ -1,0 +1,21 @@
+Portrait asset notice
+
+The files below contain the likeness of a person and are included for
+demonstration only. They are NOT covered by the MIT license (see LICENSE):
+
+  - 梁武峰.png
+  - dsh-boot-splash/portrait.webp
+  - preview/portrait.webp
+  - poster.png
+  - poster-reveal.png
+  - DeepSeek-Harness-开屏.html   (embeds the portrait as base64)
+  - DeepSeek-Harness-开屏动画.mp4
+
+If you fork or redistribute this project, make sure you have the rights to the
+image, or replace it with your own:
+
+  replace dsh-boot-splash/portrait.webp with a 1600px-wide WebP, then
+  re-run `node tools/install-splash.mjs` and `node tools/build-single.mjs`.
+
+"DeepSeek" and "DeepSeek Harness" are trademarks of their respective owners.
+This project is unofficial and not affiliated with DeepSeek.
