@@ -1,0 +1,9 @@
+{
+  "name": "dsh-boot-splash",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "description": "DeepSeek Harness 启动开屏动画（index.html 注入）"
+}

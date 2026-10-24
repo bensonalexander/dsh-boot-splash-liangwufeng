@@ -1,0 +1,19 @@
+# dependencies / local tooling
+node_modules/
+vendor/
+tmp/
+
+# generated output
+frames/
+shots/
+preview/shots/
+preview/.profile/
+preview/.domprofile/
+.chrome-profile/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

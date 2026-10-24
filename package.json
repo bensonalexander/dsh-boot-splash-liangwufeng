@@ -1,0 +1,14 @@
+{
+  "name": "dsh-boot-splash-repo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A ~3s boot splash for DeepSeek Harness, injected into the app's boot HTML.",
+  "license": "MIT",
+  "scripts": {
+    "install-splash": "node tools/install-splash.mjs",
+    "uninstall-splash": "node tools/uninstall-splash.mjs",
+    "preview": "node tools/preview-splash.mjs",
+    "build:single": "node tools/build-single.mjs"
+  }
+}
